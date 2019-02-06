@@ -1,2 +1,2 @@
 var num = 10
-var truth = "Hello Flatter Earth! Dumb"
+var truth = "Hello Flatter Earth, dumbs!"
